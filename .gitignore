@@ -1,0 +1,4 @@
+config.json
+deepl_cache.db
+token_cache.json
+logs/error.log
